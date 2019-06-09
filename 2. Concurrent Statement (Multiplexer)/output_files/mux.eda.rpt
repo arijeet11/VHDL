@@ -1,0 +1,94 @@
+EDA Netlist Writer report for mux
+Tue Feb 12 15:05:30 2019
+Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. EDA Netlist Writer Summary
+  3. Simulation Settings
+  4. Simulation Generated Files
+  5. EDA Netlist Writer Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------+
+; EDA Netlist Writer Summary                                        ;
++---------------------------+---------------------------------------+
+; EDA Netlist Writer Status ; Successful - Tue Feb 12 15:05:30 2019 ;
+; Revision Name             ; mux                                   ;
+; Top-level Entity Name     ; mux                                   ;
+; Family                    ; Cyclone II                            ;
+; Simulation Files Creation ; Successful                            ;
++---------------------------+---------------------------------------+
+
+
++-------------------------------------------------------------------------------------------------------------------------------+
+; Simulation Settings                                                                                                           ;
++---------------------------------------------------------------------------------------------------+---------------------------+
+; Option                                                                                            ; Setting                   ;
++---------------------------------------------------------------------------------------------------+---------------------------+
+; Tool Name                                                                                         ; ModelSim-Altera (Verilog) ;
+; Generate netlist for functional simulation only                                                   ; On                        ;
+; Truncate long hierarchy paths                                                                     ; Off                       ;
+; Map illegal HDL characters                                                                        ; Off                       ;
+; Flatten buses into individual nodes                                                               ; Off                       ;
+; Maintain hierarchy                                                                                ; Off                       ;
+; Bring out device-wide set/reset signals as ports                                                  ; Off                       ;
+; Enable glitch filtering                                                                           ; Off                       ;
+; Do not write top level VHDL entity                                                                ; Off                       ;
+; Disable detection of setup and hold time violations in the input registers of bi-directional pins ; Off                       ;
+; Architecture name in VHDL output netlist                                                          ; structure                 ;
+; Generate third-party EDA tool command script for RTL functional simulation                        ; Off                       ;
+; Generate third-party EDA tool command script for gate-level simulation                            ; Off                       ;
++---------------------------------------------------------------------------------------------------+---------------------------+
+
+
++--------------------------------------------+
+; Simulation Generated Files                 ;
++--------------------------------------------+
+; Generated Files                            ;
++--------------------------------------------+
+; X:/VHDL/Lab2/Q1/simulation/modelsim/mux.vo ;
++--------------------------------------------+
+
+
++-----------------------------+
+; EDA Netlist Writer Messages ;
++-----------------------------+
+Info: *******************************************************************
+Info: Running Quartus II 64-Bit EDA Netlist Writer
+    Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+    Info: Processing started: Tue Feb 12 15:05:28 2019
+Info: Command: quartus_eda --functional=on --simulation=on --tool=modelsim_oem --format=verilog mux -c mux
+Warning (292000): FLEXlm software error: Future license file format or misspelling in license file.  The file was issued for a later version of FLEXnet Licensing than this  program understands. Feature:       quartus License text:  ONE_TS_OK SIGN="0386 AEF5 0BB7 BD6C C26B 553C BF5B A77E 1542 9CA2 7207 A072 74AA 2C81 DFB1 148D AB4A 492C 5CFE 4375 D619 07BD A01E 58FB 20E7 7EED EECE 3D63 2AC0 D868" License path:  C:\Program Files\StruSoft\FEM-Design 17 Educational\license.lic FLEXnet Licensing error:-90,313 For further information, refer to the FLEXnet Licensing End User Guide, available at "www.macrovision.com".
+Warning (292000): FLEXlm software error: Future license file format or misspelling in license file.  The file was issued for a later version of FLEXnet Licensing than this  program understands. Feature:       quartus_talkback License text:  ONE_TS_OK SIGN="0386 AEF5 0BB7 BD6C C26B 553C BF5B A77E 1542 9CA2 7207 A072 74AA 2C81 DFB1 148D AB4A 492C 5CFE 4375 D619 07BD A01E 58FB 20E7 7EED EECE 3D63 2AC0 D868" License path:  C:\Program Files\StruSoft\FEM-Design 17 Educational\license.lic FLEXnet Licensing error:-90,313 For further information, refer to the FLEXnet Licensing End User Guide, available at "www.macrovision.com".
+Info (204019): Generated file mux.vo in folder "X:/VHDL/Lab2/Q1/simulation/modelsim/" for EDA simulation tool
+Info: Quartus II 64-Bit EDA Netlist Writer was successful. 0 errors, 16 warnings
+    Info: Peak virtual memory: 381 megabytes
+    Info: Processing ended: Tue Feb 12 15:05:30 2019
+    Info: Elapsed time: 00:00:02
+    Info: Total CPU time (on all processors): 00:00:01
+
+
