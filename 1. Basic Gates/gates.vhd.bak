@@ -1,0 +1,19 @@
+--- LOGIC GATES
+
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity gates is
+	port
+	{
+		a,b : in std_logic;
+		c : out std_logic;
+	}
+end entity;
+
+architecture rt1 of gates is	
+begin
+
+	c <= a and b;	-- AND operation
+
+end rt1;
