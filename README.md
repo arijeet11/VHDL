@@ -1,2 +1,2 @@
 # VHDL
-VHDL Codes
+This page contains VHDL Codes of different projects for understanding concepts of VHDL.
