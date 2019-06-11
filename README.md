@@ -12,4 +12,4 @@ Project 3. It is 3 bit D Flip-Flop which also acts as a counter. It counts from 
 
 
 
-Search for this github repository or file on google by typing arijeet11 VHDL
+Search for this github repository or file on google by typing github arijeet11 VHDL
