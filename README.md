@@ -7,3 +7,9 @@ Project 1. This project consists of basic gates like AND, OR, NOT and XOR.
 Project 2. It is 4:1 multiplexer designed using with-select statement. This could also be done using when-else statement.
 
 Project 3. It is 3 bit D Flip-Flop which also acts as a counter. It counts from 000 to 111. The count can be varied by changing the number of bits of Q and D i.e. std_logic_vector
+
+
+
+
+
+Search for this github repository or file on google by typing arijeet11 VHDL
