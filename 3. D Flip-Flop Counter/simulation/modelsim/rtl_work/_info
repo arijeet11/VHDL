@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Uppsala\VHDL\VHDL\VHDL\Lab3\Q1\simulation\modelsim
+Ed_flip_flop
+Z1 w1550717072
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dF:\Uppsala\VHDL\VHDL\VHDL\Lab3\Q1\simulation\modelsim
+Z7 8F:/Uppsala/VHDL/VHDL/VHDL/Lab3/Q1/d_flip_flop.vhd
+Z8 FF:/Uppsala/VHDL/VHDL/VHDL/Lab3/Q1/d_flip_flop.vhd
+l0
+L6
+V7l2?;_O^l;nfo=BEjO5zZ1
+!s100 b5`l4Sok6X8GInRgIkTAR0
+Z9 OV;C;10.1d;51
+31
+!i10b 1
+Z10 !s108 1550717222.802000
+Z11 !s90 -reportprogress|300|-93|-work|work|F:/Uppsala/VHDL/VHDL/VHDL/Lab3/Q1/d_flip_flop.vhd|
+Z12 !s107 F:/Uppsala/VHDL/VHDL/VHDL/Lab3/Q1/d_flip_flop.vhd|
+Z13 o-93 -work work -O0
+Z14 tExplicit 1
+Art1
+R2
+R3
+R4
+R5
+DEx4 work 11 d_flip_flop 0 22 7l2?;_O^l;nfo=BEjO5zZ1
+l19
+L14
+VBeb35ja754Ob1VkNX_dDP2
+!s100 gKbzITTTQhb8UcoKZUILj2
+R9
+31
+!i10b 1
+R10
+R11
+R12
+R13
+R14
