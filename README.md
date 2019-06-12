@@ -14,4 +14,6 @@ Project 4. This is a noise generator whose output is of 16 bits. The bits 15, 14
 
 
 
-Search for this github repository or file on google by typing github arijeet11 VHDL
+Search for this github repository or file on google by typing github arijeet11 VHDL 
+
+https://github.com/arijeet11/VHDL
