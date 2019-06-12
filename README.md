@@ -20,4 +20,6 @@ The projects are done on Quartus II 13.0 sp1 (64 bit) software and Altera de2 bo
 
 Search for this github repository or file on google by typing github arijeet11 VHDL 
 
+[Link to Github Repository](https://github.com/arijeet11/VHDL)
+
 https://github.com/arijeet11/VHDL
