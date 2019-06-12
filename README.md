@@ -2,7 +2,7 @@
 This page contains VHDL Codes of different projects for understanding concepts of VHDL.
 The projects are done on Quartus II 13.0 sp1 (64 bit) software and Altera de2 board Cyclone II. Most of the simulations are done on Modelsim Altera. So, make sure to make these changes in the Quartus software setting where you have to provide the location of the simulator.
 
-# Project 1. Basic Gates
+# Project 1. [Basic Gates](https://github.com/arijeet11/VHDL/tree/master/1.%20Basic%20Gates)
   This project consists of basic gates like AND, OR, NOT and XOR.
 
 # Project 2. Concurrent Statement (Multiplexer)
