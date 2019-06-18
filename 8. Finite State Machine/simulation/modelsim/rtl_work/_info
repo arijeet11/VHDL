@@ -1,0 +1,87 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Uppsala\VHDL\VHDL\VHDL\Lab8\Q1\simulation\modelsim
+Efsm
+Z1 w1553630504
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z5 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z7 dF:\Uppsala\VHDL\VHDL\VHDL\Lab8\Q1\simulation\modelsim
+Z8 8F:/Uppsala/VHDL/VHDL/VHDL/Lab8/Q1/fsm.vhd
+Z9 FF:/Uppsala/VHDL/VHDL/VHDL/Lab8/Q1/fsm.vhd
+l0
+L7
+VbFM4bO:d@AbJMVkf@nd953
+Z10 OV;C;10.1d;51
+31
+Z11 !s108 1553630984.479000
+Z12 !s90 -reportprogress|300|-93|-work|work|F:/Uppsala/VHDL/VHDL/VHDL/Lab8/Q1/fsm.vhd|
+Z13 !s107 F:/Uppsala/VHDL/VHDL/VHDL/Lab8/Q1/fsm.vhd|
+Z14 o-93 -work work -O0
+Z15 tExplicit 1
+!s100 U3>:@_7SJ4I=<M=j5jmdS1
+!i10b 1
+Artl
+R2
+R3
+R4
+R5
+R6
+DEx4 work 3 fsm 0 22 bFM4bO:d@AbJMVkf@nd953
+l20
+L15
+VFQ6KP`?:Aj`3IAhI9X=Q>3
+R10
+31
+R11
+R12
+R13
+R14
+R15
+!s100 =W4YccZSNc<jVS=@9_i3g1
+!i10b 1
+Efsm_vhd_tst
+Z16 w1553630907
+R2
+R3
+R4
+R5
+R6
+R7
+Z17 8F:/Uppsala/VHDL/VHDL/VHDL/Lab8/Q1/simulation/modelsim/fsm.vht
+Z18 FF:/Uppsala/VHDL/VHDL/VHDL/Lab8/Q1/simulation/modelsim/fsm.vht
+l0
+L32
+VjRRKG1^mWY_W^gQZjn2d43
+!s100 AEX7EUb5i9``2KE;BjCP13
+R10
+31
+!i10b 1
+Z19 !s108 1553630984.869000
+Z20 !s90 -reportprogress|300|-93|-work|work|F:/Uppsala/VHDL/VHDL/VHDL/Lab8/Q1/simulation/modelsim/fsm.vht|
+Z21 !s107 F:/Uppsala/VHDL/VHDL/VHDL/Lab8/Q1/simulation/modelsim/fsm.vht|
+R14
+R15
+Afsm_arch
+R2
+R3
+R4
+R5
+R6
+DEx4 work 11 fsm_vhd_tst 0 22 jRRKG1^mWY_W^gQZjn2d43
+l49
+L34
+VT;AU]ENaU`YN0NHJ5zBzI3
+!s100 d0Rf:daIAQ0P@7BXifnQ51
+R10
+31
+!i10b 1
+R19
+R20
+R21
+R14
+R15
