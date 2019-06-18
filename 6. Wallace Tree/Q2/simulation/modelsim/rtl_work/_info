@@ -1,0 +1,141 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Uppsala\VHDL\VHDL\VHDL\Lab6\Q2\simulation\modelsim
+Pfa
+Z1 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 w1551572235
+Z6 dF:\Uppsala\VHDL\VHDL\VHDL\Lab6\Q2\simulation\modelsim
+Z7 8F:/Uppsala/VHDL/VHDL/VHDL/Lab6/Q1/wallace.vhd
+Z8 FF:/Uppsala/VHDL/VHDL/VHDL/Lab6/Q1/wallace.vhd
+l0
+L5
+V12Q_cbXUJOneEjBYIAZh=3
+Z9 OV;C;10.1d;51
+31
+Z10 !s108 1551576543.031000
+Z11 !s90 -reportprogress|300|-93|-work|work|F:/Uppsala/VHDL/VHDL/VHDL/Lab6/Q1/wallace.vhd|
+Z12 !s107 F:/Uppsala/VHDL/VHDL/VHDL/Lab6/Q1/wallace.vhd|
+Z13 o-93 -work work -O0
+Z14 tExplicit 1
+!s100 [QkCQ[MTT8OPQ>_eUjkF;0
+!i10b 1
+Ewallace
+R5
+R1
+R2
+R3
+R4
+R6
+R7
+R8
+l0
+L22
+VI4k?QMZnOl7a92jA=`MKK0
+R9
+31
+R10
+R11
+R12
+R13
+R14
+!s100 d>zGC<CZK=]bmU[mZYGXj2
+!i10b 1
+Art
+R1
+R2
+R3
+R4
+DEx4 work 7 wallace 0 22 I4k?QMZnOl7a92jA=`MKK0
+l36
+L34
+V^4n_WJ90zQn1CnG5Y__<_1
+R9
+31
+R10
+R11
+R12
+R13
+R14
+!s100 Ij[9=>>59OPhHhAflo6nL2
+!i10b 1
+Ewallacetree
+Z15 w1551573793
+Z16 DPx4 work 2 fa 0 22 12Q_cbXUJOneEjBYIAZh=3
+R1
+R2
+R3
+R4
+R6
+Z17 8F:/Uppsala/VHDL/VHDL/VHDL/Lab6/Q2/wallacetree.vhd
+Z18 FF:/Uppsala/VHDL/VHDL/VHDL/Lab6/Q2/wallacetree.vhd
+l0
+L6
+V@cY@nNmDXHaSS0nj60Uc61
+R9
+31
+Z19 !s108 1551576543.517000
+Z20 !s90 -reportprogress|300|-93|-work|work|F:/Uppsala/VHDL/VHDL/VHDL/Lab6/Q2/wallacetree.vhd|
+Z21 !s107 F:/Uppsala/VHDL/VHDL/VHDL/Lab6/Q2/wallacetree.vhd|
+R13
+R14
+!s100 @LBj;2XWojGXAKQFT`=g@0
+!i10b 1
+Artl
+R16
+R1
+R2
+R3
+R4
+DEx4 work 11 wallacetree 0 22 @cY@nNmDXHaSS0nj60Uc61
+l22
+L17
+V7=E0lLeiWR>G4j5MVWoRK0
+R9
+31
+R19
+R20
+R21
+R13
+R14
+!s100 [4AAzFBGE:W4dAYC`TlC51
+!i10b 1
+Ewallacetree_vhd_tst
+Z22 w1551576415
+R3
+R4
+R6
+Z23 8F:/Uppsala/VHDL/VHDL/VHDL/Lab6/Q2/simulation/modelsim/wallacetree.vht
+Z24 FF:/Uppsala/VHDL/VHDL/VHDL/Lab6/Q2/simulation/modelsim/wallacetree.vht
+l0
+L30
+VNEY]@4jcchJTJhPCXUT<l1
+!s100 =31JLm[YPYR3AGPAaoWYm1
+R9
+31
+!i10b 1
+Z25 !s108 1551576543.886000
+Z26 !s90 -reportprogress|300|-93|-work|work|F:/Uppsala/VHDL/VHDL/VHDL/Lab6/Q2/simulation/modelsim/wallacetree.vht|
+Z27 !s107 F:/Uppsala/VHDL/VHDL/VHDL/Lab6/Q2/simulation/modelsim/wallacetree.vht|
+R13
+R14
+Awallacetree_arch
+R3
+R4
+DEx4 work 19 wallacetree_vhd_tst 0 22 NEY]@4jcchJTJhPCXUT<l1
+l57
+L32
+VNYi<VSQmT6JSPl`QCa:VM3
+!s100 k`oY5KnEC7KBDGh93BIgC3
+R9
+31
+!i10b 1
+R25
+R26
+R27
+R13
+R14
