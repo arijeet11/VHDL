@@ -20,9 +20,10 @@ The projects are done on Quartus II 13.0 sp1 (64 bit) software and Altera de2 bo
 # Project 6. [Wallace Tree](https://github.com/arijeet11/VHDL/tree/master/6.%20Wallace%20Tree)
 
 # Project 7. [RAM](https://github.com/arijeet11/VHDL/tree/master/7.%20RAM)
+  In this project, the RAM is designed using a single bus for data in and out.
 
 # Project 8. [Finite State Machine](https://github.com/arijeet11/VHDL/tree/master/8.%20Finite%20State%20Machine)
-
+![Image of FSM](https://github.com/arijeet11/VHDL/blob/master/8.%20Finite%20State%20Machine/IMG_20190326_213857811_HDR.jpg)
 
 
 Search for this github repository or file on google by typing github arijeet11 VHDL 
