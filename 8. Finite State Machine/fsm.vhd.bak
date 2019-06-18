@@ -1,0 +1,41 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+USE ieee.std_logic_unsigned.all;
+USE ieee.numeric_std.all;
+
+
+ENTITY fsm IS
+	PORT
+	(
+		clk,rst,data_in : in std_logic;
+		buzzer : out std_logic
+	);
+END fsm;
+
+ARCHITECTURE rtl OF fsm IS
+
+TYPE state_type IS (s0,s1,s2,s3);
+SIGNAL state : state_type;
+
+BEGIN
+
+	PROCESS(clk,rst,data_in)
+	
+	BEGIN
+		IF (rst='0') THEN
+			state <= s0;
+		ELSIF (clk'event and clk='0') THEN
+			CASE state IS
+				WHEN s0=> IF (data_in='1') THEN
+					END IF;
+				WHEN s1=> IF (data_in='0') THEN
+					END IF;
+				WHEN s2=> IF (data_in='1') THEN
+					END IF;
+				WHEN s3=> IF (data_in='0') THEN
+					END IF;
+			END CASE;
+		END IF;
+	END PROCESS;
+
+END rtl;
