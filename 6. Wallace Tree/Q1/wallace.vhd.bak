@@ -1,0 +1,27 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+USE ieee.std_logic_unsigned.all;
+
+PACKAGE fa IS
+	COMPONENT wallace
+		PORT
+		(
+			a,b,cin : in std_logic;
+			d,co : out std_logic
+		);
+	END COMPONENT;
+END fa;
+
+ENTITY wallace IS
+	PORT
+	(
+		a,b,cin : in std_logic;
+		d,co : out std_logic
+	);
+END wallace;
+
+ARCHITECTURE rt OF wallace IS 
+
+BEGIN
+
+END rt;
