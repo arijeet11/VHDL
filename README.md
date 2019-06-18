@@ -27,6 +27,9 @@ The projects are done on Quartus II 13.0 sp1 (64 bit) software and Altera de2 bo
 
 # Project 9. [Arithmetic Logic Unit](https://github.com/arijeet11/VHDL/tree/master/9.%20Arithmetic%20Logic%20Unit)
 
+# Project 10. [Counter Using 7-Segment](https://github.com/arijeet11/VHDL/upload/master/10.%20Counter%20Using%207-segment)
+  This project is similar to Project 5 with few changes. Here, a counter is implemented in which the up or down counting is decided by a switch. 
+
 
 Search for this github repository or file on google by typing github arijeet11 VHDL 
 
