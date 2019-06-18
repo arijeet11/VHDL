@@ -1,0 +1,56 @@
+|wallacetree
+a1 => wallace:block1.a
+a2 => wallace:block2.a
+b1 => wallace:block1.b
+b2 => wallace:block2.b
+cin1 => wallace:block1.cin
+cin2 => wallace:block2.cin
+do1 <= wallace:block3.d
+do2 <= wallace:block4.d
+co <= wallace:block4.co
+
+
+|wallacetree|wallace:block1
+a => d.IN0
+a => co.IN0
+b => d.IN1
+b => co.IN1
+cin => d.IN1
+cin => co.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|wallacetree|wallace:block2
+a => d.IN0
+a => co.IN0
+b => d.IN1
+b => co.IN1
+cin => d.IN1
+cin => co.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|wallacetree|wallace:block3
+a => d.IN0
+a => co.IN0
+b => d.IN1
+b => co.IN1
+cin => d.IN1
+cin => co.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|wallacetree|wallace:block4
+a => d.IN0
+a => co.IN0
+b => d.IN1
+b => co.IN1
+cin => d.IN1
+cin => co.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+co <= co.DB_MAX_OUTPUT_PORT_TYPE
+
+
