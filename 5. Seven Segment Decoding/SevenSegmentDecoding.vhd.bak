@@ -1,0 +1,16 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+
+PACKAGE SevenSegmentDecoding
+
+FUNCTION to_SevenSegment (i : in std_logic_vector(3 downto 0)) RETURN std_logic_vector;
+
+END SevenSegmentDecoding;
+
+PACKAGE BODY SevenSegmentDecoding IS
+function ......... return ....... is
+-- eventual variables
+begin
+-- one or more return .... statements
+end ........;
+end SevenSegmentDecoding;
