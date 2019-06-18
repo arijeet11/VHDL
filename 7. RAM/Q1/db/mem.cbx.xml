@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="mem">
+		<CBX_INST_ENTRY INSTANCE_NAME="|mem|altsyncram:ram_rtl_0" CBX_FILE_NAME="altsyncram_rck1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
