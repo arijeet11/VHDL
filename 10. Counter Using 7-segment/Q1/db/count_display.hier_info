@@ -1,0 +1,20 @@
+|count_display
+upp_ner => process_0.IN1
+upp_ner => q.OUTPUTSELECT
+upp_ner => q.OUTPUTSELECT
+upp_ner => q.OUTPUTSELECT
+upp_ner => q.OUTPUTSELECT
+pressed => q[0].CLK
+pressed => q[1].CLK
+pressed => q[2].CLK
+pressed => q[3].CLK
+reset => q[0].ACLR
+reset => q[1].ACLR
+reset => q[2].ACLR
+reset => q[3].ACLR
+counts[0] <= q[0].DB_MAX_OUTPUT_PORT_TYPE
+counts[1] <= q[1].DB_MAX_OUTPUT_PORT_TYPE
+counts[2] <= q[2].DB_MAX_OUTPUT_PORT_TYPE
+counts[3] <= q[3].DB_MAX_OUTPUT_PORT_TYPE
+
+
