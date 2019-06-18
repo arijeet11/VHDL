@@ -1,0 +1,83 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Uppsala\VHDL\VHDL\VHDL\Lab7\Q2\simulation\modelsim
+Ememram
+Z1 w1552706495
+Z2 DPx4 ieee 16 vital_primitives 0 22 9W@YP9_VCb?_GCJ8e:;YQ0
+Z3 DPx9 cycloneii 19 cycloneii_atom_pack 0 22 zUjlM<IUJVWSWg:L2<>ic3
+Z4 DPx4 ieee 12 vital_timing 0 22 7h8zz2S4HVg:a;2TBMI[j1
+Z5 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z7 DPx9 cycloneii 20 cycloneii_components 0 22 h@gSJ;Al32oYg[7^PbnAR0
+Z8 dF:\Uppsala\VHDL\VHDL\VHDL\Lab7\Q2\simulation\modelsim
+Z9 8memram_fast.vho
+Z10 Fmemram_fast.vho
+l0
+L34
+VL:nHUQI:H0i@0I84]]VM:1
+Z11 OV;C;10.1d;51
+31
+Z12 !s108 1552706529.193000
+Z13 !s90 -reportprogress|300|-93|-work|work|memram_fast.vho|
+Z14 !s107 memram_fast.vho|
+Z15 o-93 -work work -O0
+Z16 tExplicit 1
+!s100 HYg39o2VO08QhQ:NS=A;k0
+!i10b 1
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 6 memram 0 22 L:nHUQI:H0i@0I84]]VM:1
+l107
+L66
+VNX_Pbg9N_ICWniz:jMVVC1
+R11
+31
+R12
+R13
+R14
+R15
+R16
+!s100 E8fg?OWG=_<]Tg<h`k_5z2
+!i10b 1
+Ememram_vhd_tst
+Z17 w1552706460
+R5
+R6
+R8
+Z18 8F:/Uppsala/VHDL/VHDL/VHDL/Lab7/Q2/simulation/modelsim/memram.vht
+Z19 FF:/Uppsala/VHDL/VHDL/VHDL/Lab7/Q2/simulation/modelsim/memram.vht
+l0
+L30
+VdRczo`LdOH]Fda[lKHC@i2
+!s100 @<@<3>aWm[H]o3]hG?Y410
+R11
+31
+!i10b 1
+Z20 !s108 1552706529.685000
+Z21 !s90 -reportprogress|300|-93|-work|work|F:/Uppsala/VHDL/VHDL/VHDL/Lab7/Q2/simulation/modelsim/memram.vht|
+Z22 !s107 F:/Uppsala/VHDL/VHDL/VHDL/Lab7/Q2/simulation/modelsim/memram.vht|
+R15
+R16
+Amemram_arch
+R5
+R6
+DEx4 work 14 memram_vhd_tst 0 22 dRczo`LdOH]Fda[lKHC@i2
+l49
+L32
+V;ZBd@nICRFHj=]O]<HJM?1
+!s100 =;JAVoMcedE5Fno;iAofD0
+R11
+31
+!i10b 1
+R20
+R21
+R22
+R15
+R16
