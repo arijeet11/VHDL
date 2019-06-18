@@ -18,6 +18,8 @@ The projects are done on Quartus II 13.0 sp1 (64 bit) software and Altera de2 bo
   It is an example on how to decode the seven segment display present on Altera DE2 Board. These seven segments are common anode.
 
 # Project 6. [Wallace Tree](https://github.com/arijeet11/VHDL/tree/master/6.%20Wallace%20Tree)
+<img src="https://github.com/arijeet11/VHDL/blob/master/6.%20Wallace%20Tree/Q2/Wallace%20Tree.jpg" width="450">
+
 
 # Project 7. [RAM](https://github.com/arijeet11/VHDL/tree/master/7.%20RAM)
   In this project, the RAM is designed using a single bus for data in and out.
