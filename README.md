@@ -22,7 +22,7 @@ The projects are done on Quartus II 13.0 sp1 (64 bit) software and Altera de2 bo
 
 
 # Project 7. [RAM](https://github.com/arijeet11/VHDL/tree/master/7.%20RAM)
-  In this project, the RAM is designed using a single bus for data in and out.
+  It is possible to design a memory unit using single bus or dual bus for data in and out. In this project, the RAM is designed using a single bus.
 
 # Project 8. [Finite State Machine](https://github.com/arijeet11/VHDL/tree/master/8.%20Finite%20State%20Machine)
 <img src="https://github.com/arijeet11/VHDL/blob/master/8.%20Finite%20State%20Machine/FSM%20Diagram.jpg" width="450">
