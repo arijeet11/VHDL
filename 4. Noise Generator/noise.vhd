@@ -17,17 +17,17 @@ architecture rt1 of noise is
 
 begin
 
-	g <= q(15) xor q(14) xor q(12) xor q(3);
-	sreg <= q;
+	g <= q(15) xor q(14) xor q(12) xor q(3); 		-- The unique data (binary) responsible for noise generation/encryption
+	sreg <= q; 						-- Output data
 	
 	process(g,q,clk,rst)
 	
 	begin
 	
-		if (rst='0') then
+		if (rst='0') then 			-- Asynchronous reset since we are not implementing separate precise reset function
 			q <= "1000000000000000";
 		elsif (clk'event and clk='1') then
-			q(15) <= q(14);
+			q(15) <= q(14); 		-- Shift registers for data circulation
 			q(14) <= q(13);
 			q(13) <= q(12);
 			q(12) <= q(11);
